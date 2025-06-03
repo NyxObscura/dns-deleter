@@ -1,0 +1,4 @@
+{
+  "example.com": { "zone": "Zone", "apitoken": "YOUR_API" },
+  "example.org": { "zone": "Zone", "apitoken": "YOUR_API" }
+}
